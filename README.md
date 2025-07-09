@@ -18,7 +18,7 @@ Kullanıcıdan 1 ile 1.000.000 arasında bir limit değeri alarak:
 
 ## 📸 Ekran Görüntüsü
 
-![Uygulama Ekran Görüntüsü](![Ekran görüntüsü 2025-07-09 203403](https://github.com/user-attachments/assets/61a3a987-f999-46b9-9202-04f2f82dfa94))
+(![Ekran görüntüsü 2025-07-09 203403](https://github.com/user-attachments/assets/61a3a987-f999-46b9-9202-04f2f82dfa94))
 
 ## 🚀 Kullanılan Teknolojiler
 
